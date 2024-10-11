@@ -1,0 +1,12 @@
+Output of Hand Landmarks:
+The hand landmarks correspond to different parts of the hand, 
+such as fingertips, knuckles, and wrist. 
+You’ll get 21 landmarks for each hand with their x and y coordinates normalized relative to the frame size.
+
+Landmarks:
+0: Wrist
+1-4: Thumb landmarks
+5-8: Index finger landmarks
+9-12: Middle finger landmarks
+13-16: Ring finger landmarks
+17-20: Pinky finger landmarks
